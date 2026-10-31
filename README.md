@@ -1,5 +1,4 @@
-# Olá, tudo bem?
-# Eu sou Andria
+# Olá, tudo bem? Eu sou Andria!
 
 ### Engenharia de Dados | Python | SQL | Cloud Computing
 
