@@ -17,7 +17,7 @@
 
 ### 
 
-Sou **Arquiteta e Urbanista formada pela Universidade Federal do Rio de Janeiro (UFRJ)** e sempre tive interesse em entender informações, identificar padrões e utilizá-los para orientar decisões. Durante a graduação, participei de projetos de **iniciação científica**, envolvendo pesquisa e análise de dados relacionados ao acesso à água e ao saneamento em regiões periféricas do estado do Rio de Janeiro. Foi uma das minhas primeiras experiências com dados e um contato que despertou meu interesse pela área.
+Sou **Arquiteta e Urbanista de formação pela Universidade Federal do Rio de Janeiro (UFRJ)** e sempre tive interesse em entender informações, identificar padrões e utilizá-los para orientar decisões. Durante a graduação, participei de projetos de **iniciação científica**, envolvendo pesquisa e análise de dados relacionados ao acesso à água e ao saneamento em regiões periféricas do estado do Rio de Janeiro. Foi uma das minhas primeiras experiências com dados e um contato que despertou meu interesse pela área.
 
 Na Arquitetura, esse interesse continuou presente. Ao longo da minha experiência profissional, desenvolvi uma afinidade especial pela **análise do perfil de clientes, comportamento de consumo e características socioeconômicas**, utilizando essas informações para compreender as demandas dos públicos e apoiar decisões estratégicas em projetos de empreendimentos imobiliários, como shopping centers e condomínios residenciais.
 
