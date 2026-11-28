@@ -21,7 +21,7 @@ Sou **Arquiteta e Urbanista de formação pela Universidade Federal do Rio de Ja
 
 Na Arquitetura, esse interesse continuou presente. Ao longo da minha experiência profissional, desenvolvi uma afinidade especial pela **análise do perfil de clientes, comportamento de consumo e características socioeconômicas**, utilizando essas informações para compreender as demandas dos públicos e apoiar decisões estratégicas em projetos de empreendimentos imobiliários, como shopping centers e condomínios residenciais.
 
-Hoje, direciono essa experiência para a área de tecnologia. Curso **Tecnólogo em Banco de Dados**, participo da **POD Academy**, na formação **Full Stack em Dados**, e sou certificada **AWS Certified AI Practitioner (AIF-C01)**. Venho aprofundando meus conhecimentos em Python, SQL, modelagem de dados, Machine Learning, Engenharia de Dados e computação em nuvem.
+Hoje, direciono essa experiência para a área de tecnologia. Curso **Tecnólogo em Banco de Dados**, participo da **POD Academy**, na formação **Full Stack em Dados**, e sou certificada **AWS Certified AI Practitioner (AIF-C01) e **AWS Certified Cloud Practitioner (CFL-C02)**. Venho aprofundando meus conhecimentos em Python, SQL, modelagem de dados, Machine Learning, Engenharia de Dados e computação em nuvem.
 
 Acredito que minha experiência multidisciplinar agrega uma perspectiva interessante à área de Dados, combinando **visão analítica, entendimento de negócio, comunicação e capacidade de transformar informações em decisões**.
 
@@ -29,58 +29,18 @@ Acredito que minha experiência multidisciplinar agrega uma perspectiva interess
 
 ## 🛠️ Competências Técnicas
 
-**Programação e Processamento de Dados**
-- Python
-- SQL
-- Pandas
-- NumPy
 
-**Bancos de Dados e Modelagem**
-- PostgreSQL
-- SQLite
-- Bancos de Dados Relacionais
-- Modelagem de Dados
-- Consultas SQL
+💻 Linguagens e Bibliotecas: Python • SQL • Pandas • NumPy • Scikit-learn • MatplotLib
 
-**Engenharia de Dados**
-- Processos ETL
-- Data Pipelines
-- Ingestão e Transformação de Dados
-- Data Lakes e Data Lakehouses
-- Data Warehouses
-- Medallion Architecture (Bronze, Silver e Gold)
+⚙️ Engenharia de Dados: ETL/ELT • Data Pipelines • Data Lakes • Data Warehouses • Lakehouse • Medallion Architecture
 
-**Cloud Computing e Inteligência Artificial**
-- AWS Cloud Fundamentals
-- Amazon S3
-- Amazon Athena
-- AWS Glue
-- Amazon SageMaker
-- Amazon Bedrock
-- Inteligência Artificial Generativa
-- Machine Learning
+☁️ Cloud & IA: AWS • S3 • Athena • Glue • SageMaker • Bedrock • IA Generativa • Machine Learning
 
-**Análise de Dados e Ciência de Dados**
-- Análise Exploratória de Dados (EDA)
-- Limpeza e Pré-processamento de Dados
-- Análise Estatística
-- Visualização de Dados
-- Machine Learning
-- Scikit-learn
+📊 Analytics & BI: Power BI • Excel • EDA • Análise Estatística • Data Visualization • Dashboards
 
-**Business Intelligence**
-- Power BI
-- Microsoft Excel
-- Desenvolvimento de Dashboards
-
-**Ferramentas**
-- Git e GitHub
-- Jupyter Notebook
-- Visual Studio Code
-- Google Colab
+🔧 Ferramentas: Git • GitHub • Jupyter Notebook • VS Code • Google Colab
 
 ---
-
 
 ## 🎓 Formação
 
@@ -98,6 +58,8 @@ Acredito que minha experiência multidisciplinar agrega uma perspectiva interess
 | Certificação | Instituição | Quando |
 |:---|:---|:---|
 | AWS Certified AI Practitioner (AIF-C01) | Amazon Web Services | Set/2026 |
+| AWS Certified Cloud Practitioner (CFL-C02) | Amazon Web Services | Nov/2026 |
+
 
 ---
 
