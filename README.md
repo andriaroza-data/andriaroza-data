@@ -1,6 +1,6 @@
 <div align="left">
 
-# Andria Roza
+# 🚀 Olá, eu sou Andria Roza!
 
 ### Analista de Dados | Engenharia de Dados | Python | SQL | Cloud Computing
 
