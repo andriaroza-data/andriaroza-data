@@ -2,7 +2,7 @@
 
 # 🚀 Olá, eu sou Andria Roza!
 
-### Analista de Dados | Engenharia de Dados | Python | SQL | Cloud Computing
+### Analista de Dados | Engenharia de Dados | Python | SQL | 2x AWS Certified
 
 <a href="https://www.linkedin.com/in/andria-roza-851063354/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
