@@ -1,4 +1,4 @@
- <div align="center">
+<div align="left">
 
 # Andria Roza
 
@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/andria-roza-851063354/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="andriaroza.data@gmail.com">
+<a href="mailto:andria.roza.data@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
